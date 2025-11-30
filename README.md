@@ -52,7 +52,7 @@ CV/
 ## 📸 Galerie de projets
 
 Le CV inclut une galerie interactive présentant :
-- Interface de Constructo AI (EXPERTS IA, PGI IA)
+- Interface de Constructo AI (ERP, SEAOP)
 - Projets d'architecture et conception 3D
 - Réalisations en mécanique et métal en feuille
 - Stands d'exposition
@@ -70,13 +70,30 @@ Le CV inclut une galerie interactive présentant :
 
 ## 🚀 Projets notables
 
-### Constructo AI (2024 - Présent)
-Suite logicielle révolutionnaire pour l'industrie de la construction au Québec :
-- 6 applications IA (500,000+ lignes de code Python)
-- 60+ profils d'experts virtuels
-- Entièrement GRATUIT et OPEN SOURCE
+### Constructo AI (Novembre 2024 - Présent)
 
-**🔗 [En savoir plus sur Constructo AI](https://huggingface.co/spaces/Sylvainleduc/PORTAIL)**
+Suite logicielle ERP de nouvelle génération propulsée par l'intelligence artificielle, conçue pour révolutionner la gestion et l'expertise dans l'industrie de la construction au Québec.
+
+#### Réalisations techniques majeures :
+
+- **113,000+ lignes de code Python** (Streamlit, PostgreSQL, FastAPI) déployé sur Render
+- **Architecture Multi-Tenant** avec isolation par schéma PostgreSQL (76+ tables par entreprise, sécurité enterprise-grade)
+- **Intégration IA avancée** avec Claude API (Anthropic) incluant Memory Tool persistant, Web Search temps réel et Prompt Caching (90% économies tokens)
+- **60 profils d'experts IA spécialisés** (26,311 lignes de documentation) couvrant architecture, ingénierie structure, estimation, conformité RBQ/CCQ, et 50+ spécialités construction
+- **Modules de calculs techniques** : poutres, colonnes, linteaux, hauteurs plancher, Heel Height, Jacks, pentes, étriers Simpson/Mitek
+- **25+ modules métiers intégrés** : CRM, Devis (140+ items), Comptabilité TPS/TVQ, TimeTracker (61 postes CCQ), Gantt/Kanban, Inventaire, Production, Fonds de Prévoyance (Loi 16)
+- **Conformité réglementaire complète** : RBQ (40 catégories), CCQ (26 métiers), CNESST, normes CSA/BNQ, Code National du Bâtiment
+- **SEAOP** : Plateforme gratuite d'appels d'offres publics avec système de soumissions et chat communautaire
+- **Portail B2B Client** : Interface self-service pour approbation devis, suivi projets et messagerie
+
+#### Produits commercialisés :
+
+| Produit | Prix |
+|---------|------|
+| Constructo AI (ERP) | 139.99$/mois |
+| SEAOP (Appels d'offres) | Gratuit |
+
+**🔗 [Accéder à Constructo AI](https://app.constructoai.ca/)**
 
 ---
 
@@ -97,6 +114,7 @@ Vous pouvez télécharger mon CV en format PDF : [Télécharger le CV](documents
 
 ## 🔄 Mises à jour
 
+- **Novembre 2025** - Mise à jour majeure du CV avec détails techniques Constructo AI
 - **Novembre 2024** - Lancement du CV en ligne avec galerie de projets
 - **Novembre 2024** - Fondation de Constructo AI
 
@@ -104,7 +122,7 @@ Vous pouvez télécharger mon CV en format PDF : [Télécharger le CV](documents
 
 ## 📝 Licence
 
-© 2024 Sylvain Leduc - Tous droits réservés
+© 2024-2025 Sylvain Leduc - Tous droits réservés
 
 ---
 
@@ -114,4 +132,4 @@ Merci de visiter mon CV en ligne! N'hésitez pas à me contacter pour toute oppo
 
 ---
 
-**Dernière mise à jour : Novembre 2024**
+**Dernière mise à jour : Novembre 2025**
