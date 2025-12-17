@@ -82,7 +82,7 @@ Création et développement d'un logiciel de gestion complet destiné aux entrep
 
 **[Accéder à Constructo AI](https://app.constructoai.ca/)**
 
-### Projets KDI (Janvier 2014 - Présent)
+### Projets KDI - Chargé de Projets / Estimateur (Janvier 2014 - Présent)
 
 Accompagnement des entrepreneurs généraux dans la réalisation de leurs projets de construction, de la conception initiale jusqu'à la livraison finale.
 
