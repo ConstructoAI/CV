@@ -1,30 +1,29 @@
 # CV - Sylvain Leduc
 
-## 👨‍💼 Dessinateur-Concepteur | Chargé de Projets | Développeur IA | Entrepreneur
+## Dessinateur-Concepteur | Chargé de Projets | Développeur IA | Entrepreneur
 
 Bienvenue sur mon CV en ligne! Ce site présente mon parcours professionnel, mes compétences et mon portfolio de projets.
 
 ---
 
-## 🌐 Voir le CV en ligne
+## Voir le CV en ligne
 
-**👉 [https://constructoai.github.io/CV/](https://constructoai.github.io/CV/)**
-
----
-
-## 📋 Contenu du CV
-
-- ✅ Profil professionnel
-- ✅ Parcours professionnel détaillé
-- ✅ Formation académique
-- ✅ Compétences techniques et gestion
-- ✅ Portfolio de projets avec galerie photos
-- ✅ Documents et certifications (PDF)
-- ✅ Langues
+**[https://constructoai.github.io/CV/](https://constructoai.github.io/CV/)**
 
 ---
 
-## 🛠️ Technologies utilisées
+## Contenu du CV
+
+- Profil professionnel
+- Parcours professionnel détaillé
+- Formation académique
+- Compétences techniques et gestion
+- Portfolio de projets
+- Langues
+
+---
+
+## Technologies utilisées
 
 - **HTML5** - Structure du CV
 - **CSS3** - Design responsive et moderne
@@ -32,104 +31,83 @@ Bienvenue sur mon CV en ligne! Ce site présente mon parcours professionnel, mes
 
 ---
 
-## 📂 Structure du projet
+## Structure du projet
 
 ```
 CV/
 ├── index.html              # CV principal
-├── images/                 # Galerie de projets
-│   ├── projet1.jpg
-│   ├── projet2.jpg
-│   └── ...
-└── documents/              # Documents PDF
-    ├── portfolio.pdf
-    ├── certifications.pdf
-    └── ...
+├── README.md               # Documentation
+├── LICENSE                 # Licence MIT
+└── portfolio/              # Galerie de projets (images, PDFs, vidéo)
+    ├── 1001.jpg
+    ├── 1002.PNG
+    ├── ...
+    └── 1044.jpg
 ```
 
 ---
 
-## 📸 Galerie de projets
+## Portfolio
 
-Le CV inclut une galerie interactive présentant :
-- Interface de Constructo AI (ERP, SEAOP)
+Le portfolio inclut :
 - Projets d'architecture et conception 3D
+- Plans techniques et mises en plan
 - Réalisations en mécanique et métal en feuille
-- Stands d'exposition
-- Plans techniques et mise en plan
+- Modélisations d'équipements industriels
 
 ---
 
-## 📄 Documents disponibles
-
-- **Portfolio complet** - Présentation détaillée de tous mes projets
-- **Certifications** - Diplômes et formations
-- **Réalisations** - Documentation de projets majeurs
-
----
-
-## 🚀 Projets notables
+## Projets notables
 
 ### Constructo AI (Novembre 2024 - Présent)
 
-Suite logicielle ERP de nouvelle génération propulsée par l'intelligence artificielle, conçue pour révolutionner la gestion et l'expertise dans l'industrie de la construction au Québec.
+Création et développement d'un logiciel de gestion complet destiné aux entreprises de construction au Québec, intégrant l'intelligence artificielle pour automatiser et simplifier les opérations quotidiennes.
 
-#### Réalisations techniques majeures :
+#### Réalisations principales :
 
-- **113,000+ lignes de code Python** (Streamlit, PostgreSQL, FastAPI) déployé sur Render
-- **Architecture Multi-Tenant** avec isolation par schéma PostgreSQL (76+ tables par entreprise, sécurité enterprise-grade)
-- **Intégration IA avancée** avec Claude API (Anthropic) incluant Memory Tool persistant, Web Search temps réel et Prompt Caching (90% économies tokens)
-- **60 profils d'experts IA spécialisés** (26,311 lignes de documentation) couvrant architecture, ingénierie structure, estimation, conformité RBQ/CCQ, et 50+ spécialités construction
-- **Modules de calculs techniques** : poutres, colonnes, linteaux, hauteurs plancher, Heel Height, Jacks, pentes, étriers Simpson/Mitek
-- **25+ modules métiers intégrés** : CRM, Devis (140+ items), Comptabilité TPS/TVQ, TimeTracker (61 postes CCQ), Gantt/Kanban, Inventaire, Production, Fonds de Prévoyance (Loi 16)
-- **Conformité réglementaire complète** : RBQ (40 catégories), CCQ (26 métiers), CNESST, normes CSA/BNQ, Code National du Bâtiment
-- **SEAOP** : Plateforme gratuite d'appels d'offres publics avec système de soumissions et chat communautaire
-- **Portail B2B Client** : Interface self-service pour approbation devis, suivi projets et messagerie
+- Conception et programmation complète du logiciel (113,000+ lignes de code) - de l'idée initiale jusqu'au produit commercial
+- Développement d'un assistant IA capable de répondre aux questions techniques en construction (60 domaines d'expertise couverts)
+- Création de 25+ modules de gestion : clients, soumissions, comptabilité, suivi des heures, planification de projets, inventaire et production
+- Intégration d'outils de calcul pour les structures (poutres, colonnes, pentes) utilisés quotidiennement sur les chantiers
+- Respect des normes québécoises : RBQ, CCQ, CNESST et Code National du Bâtiment
+- Mise en place d'une plateforme d'appels d'offres publics gratuite (SEAOP) avec système de soumissions en ligne
+- Création d'un portail client permettant l'approbation de devis et le suivi de projets en temps réel
 
 #### Produits commercialisés :
 
 | Produit | Prix |
 |---------|------|
-| Constructo AI (ERP) | 139.99$/mois |
-| SEAOP (Appels d'offres) | Gratuit |
+| Constructo AI (logiciel de gestion) | 139.99$/mois |
+| SEAOP (appels d'offres) | Gratuit |
 
-**🔗 [Accéder à Constructo AI](https://app.constructoai.ca/)**
+**[Accéder à Constructo AI](https://app.constructoai.ca/)**
 
----
+### Projets KDI (Janvier 2014 - Présent)
 
-## 📞 Contact
+Accompagnement des entrepreneurs généraux dans la réalisation de leurs projets de construction, de la conception initiale jusqu'à la livraison finale.
 
-- 📧 Email : [sylvainleduc2000@gmail.com](mailto:sylvainleduc2000@gmail.com)
-- 🏢 Email pro : [info@constructoai.ca](mailto:info@constructoai.ca)
-- 📱 Téléphone : (514) 820-1972
-- 📍 Adresse : 1760 rue Jacques-Cartier Sud, Farnham, QC J2N 1Y8
+- Préparation des plans et documents requis pour l'approbation des projets auprès des municipalités
+- Estimation budgétaire et préparation des soumissions pour les projets en structure, architecture et mécanique
+- Coordination et suivi de projet avec les fournisseurs et sous-traitants
+- Conception de plans détaillés en collaboration avec ingénieurs et architectes
 
----
-
-## 📥 Télécharger le CV
-
-Vous pouvez télécharger mon CV en format PDF : [Télécharger le CV](documents/CV_Sylvain_Leduc.pdf)
+**Clients notables :** Construction Héritage, Groupe Perreault Construction, Adam Lumber, Structure Évolution, Slik, Jemmsau, Dix², Sollertia, Natcom, etc.
 
 ---
 
-## 🔄 Mises à jour
+## Contact
 
-- **Novembre 2025** - Mise à jour majeure du CV avec détails techniques Constructo AI
-- **Novembre 2024** - Lancement du CV en ligne avec galerie de projets
-- **Novembre 2024** - Fondation de Constructo AI
-
----
-
-## 📝 Licence
-
-© 2024-2025 Sylvain Leduc - Tous droits réservés
+- Email : [sylvainleduc2000@gmail.com](mailto:sylvainleduc2000@gmail.com)
+- Email pro : [info@constructoai.ca](mailto:info@constructoai.ca)
+- Téléphone : (514) 820-1972
+- Adresse : 1760 rue Jacques-Cartier Sud, Farnham, QC J2N 1Y8
 
 ---
 
-## 🙏 Remerciements
+## Licence
 
-Merci de visiter mon CV en ligne! N'hésitez pas à me contacter pour toute opportunité de collaboration.
+MIT License - Voir le fichier [LICENSE](LICENSE)
 
 ---
 
-**Dernière mise à jour : Novembre 2025**
+**Dernière mise à jour : Décembre 2025**
